@@ -1,0 +1,16 @@
+1) Linux commands: pwd command checks the current directory, mkdir command makes a directory, cd command changes directory, ls 
+command lists the files in a directory combined with the -ltr commands that sorts and displays the files in a certain
+order, cd .. allows you to leave a directory, cat command prints the files to the screen, pico allows you to edit
+files.
+
+2) Git commands: git config command sets the global user email and name so it knows who you are, git clone command
+clones the git repository, git status checks the status of the files in your local repository, git add command adds
+files to your next commit, git commit command commits your changes and allows you to write a note about what you're
+changing, git push command pushes your changes to the repository.
+
+3) i. You can collaborate with others but you have to specify that you had collaborated.
+ii. You are allowed to consult outside sources however you must say what source you used and for what information
+you used. Same applies to AI and making sure the information is accurate.
+iii. Late assignments will be taken however, there will be a 10% penatly per day an assignment is late.
+iv. Theres not a penalty exactly but students are expected to do the work they missed and get the notes from other
+students. If too many classes or work is missed there may be no way to keep up with the class.
